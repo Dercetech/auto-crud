@@ -1,0 +1,10 @@
+# Dev environments
+.c9
+.idea
+.openshift
+
+# Node & NPM
+.npm
+.node_repl_history
+node_modules
+npm-debug.log
